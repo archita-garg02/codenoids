@@ -36,19 +36,25 @@ This repository serves as a record of my continuous learning and growth in softw
 
 ## 📈 Progress
 
-| Day | Problem         | Topic           | Difficulty |
-| --- | --------------- | --------------- | ---------- |
-| 01  | Two Sum         | Array, Hash Map | Easy       |
-| 01  | Add Two Numbers | Linked List     | Medium     |
+| Day | Problem                                        | Topic                            | Difficulty |
+| --- | ---------------------------------------------- | -------------------------------- | ---------- |
+| 01  | Two Sum                                        | Array, Hash Map                  | Easy       |
+| 01  | Add Two Numbers                                | Linked List                      | Medium     |
+| 02  | Longest Substring Without Repeating Characters | String, Sliding Window, Hash Set | Medium     |
+| 02  | Roman to Integer                               | String, Hashing                  | Easy       |
 
 ## 📂 Repository Structure
 
 ```text
 Codenoids/
 │
-├── day-01/
+├── Day-01/
 │   ├── Two_Sum.cpp
 │   └── Add_Two_Numbers.cpp
+│
+├── Day-02/
+│   ├── LeetCode_3_Longest_Substring_Without_Repeating_Characters.cpp
+│   └── LeetCode_13_Roman_To_Integer.cpp
 │
 └── README.md
 ```
@@ -59,7 +65,6 @@ Codenoids/
 * Data Structures & Algorithms
 * Git & GitHub
 * Agentic AI
-* Large Language Models (LLMs)
 
 ## 🌱 Current Focus
 
@@ -75,4 +80,4 @@ To develop strong problem-solving skills, master core computer science concepts,
 
 ---
 
-⭐ *Consistency is the key to growth. Every solved problem is a step forward.*
+⭐ Consistency is the key to growth. Every solved problem is a step forward.
