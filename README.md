@@ -6,6 +6,11 @@ Welcome to **Codenoids** — my personal repository for documenting my journey i
 
 This repository serves as a record of my continuous learning and growth in software development. It contains my daily coding practice, LeetCode solutions, and exploration of modern AI technologies.
 
+## 🔗 Profiles
+
+* GitHub: https://github.com/archita-garg02
+* Codolio: https://codolio.com/profile/Archita_Garg02
+
 ## 📚 What You'll Find Here
 
 ### 💻 Daily LeetCode Solutions
@@ -13,17 +18,18 @@ This repository serves as a record of my continuous learning and growth in softw
 * C++ solutions with optimized approaches
 * Problem-solving techniques and patterns
 * Time and Space Complexity analysis
-* Topics including:
 
-  * Arrays
-  * Strings
-  * Linked Lists
-  * Trees
-  * Graphs
-  * Dynamic Programming
-  * Greedy Algorithms
-  * Hashing
-  * Recursion & Backtracking
+Topics covered:
+
+* Arrays
+* Strings
+* Linked Lists
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Hashing
+* Recursion & Backtracking
 
 ### 🤖 Agentic AI Learning
 
@@ -38,10 +44,11 @@ This repository serves as a record of my continuous learning and growth in softw
 
 | Day | Problem                                        | Topic                            | Difficulty |
 | --- | ---------------------------------------------- | -------------------------------- | ---------- |
-| 01  | Two Sum                                        | Array, Hash Map                  | Easy       |
+| 01  | Two Sum                                        | Array                            | Easy       |
 | 01  | Add Two Numbers                                | Linked List                      | Medium     |
 | 02  | Longest Substring Without Repeating Characters | String, Sliding Window, Hash Set | Medium     |
-| 02  | Roman to Integer                               | String, Hashing                  | Easy       |
+| 02  | Roman to Integer                               | String                           | Easy       |
+| 03  | Longest Palindromic Substring                  | Strings, Two Pointers            | Medium     |
 
 ## 📂 Repository Structure
 
@@ -55,6 +62,9 @@ Codenoids/
 ├── Day-02/
 │   ├── LeetCode_3_Longest_Substring_Without_Repeating_Characters.cpp
 │   └── LeetCode_13_Roman_To_Integer.cpp
+│
+├── Day-03/
+│   └── LeetCode_5_Longest_Palindromic_Substring.cpp
 │
 └── README.md
 ```
@@ -80,4 +90,8 @@ To develop strong problem-solving skills, master core computer science concepts,
 
 ---
 
-⭐ Consistency is the key to growth. Every solved problem is a step forward.
+### 🚀 Learning Journey
+
+Every solved problem is a step toward becoming a better software engineer.
+
+⭐ **Consistency is the key to growth. Every solved problem is a step forward.**
