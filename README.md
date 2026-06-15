@@ -49,6 +49,8 @@ Topics covered:
 | 02  | Longest Substring Without Repeating Characters | String, Sliding Window, Hash Set | Medium     |
 | 02  | Roman to Integer                               | String                           | Easy       |
 | 03  | Longest Palindromic Substring                  | Strings, Two Pointers            | Medium     |
+| 04	| Container With Most Water	            	       | Two Pointers                     | Medium     |
+| 04  |	Longest Common Prefix	                         | String	                          | Easy       |
 
 ## 📂 Repository Structure
 
@@ -65,6 +67,9 @@ Codenoids/
 │
 ├── Day-03/
 │   └── LeetCode_5_Longest_Palindromic_Substring.cpp
+├── Day-04/
+│   └── LeetCode_11_Container_With_Most_Water.cpp
+│   └── LeetCode_14_Longest_Common_Prefix.cpp
 │
 └── README.md
 ```
